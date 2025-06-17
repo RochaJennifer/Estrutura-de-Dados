@@ -1,4 +1,4 @@
-// Equipe: Nome1 e Nome2
+// Equipe: Jennifer do Nascimento dos Santos Rocha de Souza
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
